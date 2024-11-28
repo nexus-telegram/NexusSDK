@@ -1,6 +1,6 @@
 module github.com/nexus-telegram/NexusSDK
 
-go 1.23
+go 1.23.3
 
 require (
 	go.uber.org/zap v1.27.0
